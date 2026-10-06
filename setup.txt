@@ -3,3 +3,4 @@ curl.exe -L -o "C:\Program Files (x86)\"
 0
 1
 cd /D C:/programdata && mkdir test0
+del "C:/test2.txt"
